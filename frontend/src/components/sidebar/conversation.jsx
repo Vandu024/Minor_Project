@@ -11,8 +11,8 @@ const Conversation = () => {
                 </div>
                 <div className="flex flex-col flex-1">
                     <div className="flex gap-3 justify-between">
-                        <p className="font-bold text-grey-200">Rohit Roy</p>
-                        <span className="text-x1">🎃</span>
+                        <p className="font-bold text-gray-200">Rohit Roy</p>
+                        <span className="text-xl">🎃</span>
                     </div>
                 </div>
             </div>
