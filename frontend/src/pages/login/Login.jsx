@@ -41,7 +41,7 @@ const Login = ()=>{
                         value={password}
                         onChange={(e)=> setPassword(e.target.value)}/>
                     </div>
-                    <Link to='/singup' className= 'text-sm hover:underline hover:text-blue-600 mt-2 inline-block'>{"Don't"} have an account?
+                    <Link to='/signup' className= 'text-sm hover:underline hover:text-blue-600 mt-2 inline-block'>{"Don't"} have an account?
                     </Link>
                     <div>
                         <button className=' btn btn-block btn-sm mt-2' disabled={loading}>
